@@ -1,0 +1,26 @@
+.thor_section {
+    background-image: url(../images/thor_header.jpg);
+    background-size: 100%;
+    min-height: 100vh;
+}
+
+.title1_underline {
+   border-bottom: 4px solid white;
+   margin-left: 620px;
+   margin-right: 780px;
+
+}
+
+.title2_underline {
+    border-bottom: 4px solid #fe7467;
+    margin-left: 710px;
+    margin-right: 710px;
+}
+
+.container_1 {
+    display: flex;
+}
+
+.index_catalog_image {
+    width: 800px;
+}

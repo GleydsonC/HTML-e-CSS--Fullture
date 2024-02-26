@@ -1,0 +1,78 @@
+.nav_link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    color: #fff;
+}
+.main_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.title_1 {
+    color: #fff;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 550px;
+    padding-top: 60px;
+}
+
+.main_text_thor {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #fff;
+    padding-left: 750px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+
+.title_2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.main_text_funko{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding-top: 150px;
+}
+
+.title_3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 45px;
+    color: rgb(38, 34, 34);
+}
+
+.title_4 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+text-align: center;
+padding-top: 30px;
+}
+
+.catalog_main_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.cost {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.contact_main_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 30px;
+    padding-top: 25px;
+    color: rgb(52, 45, 45);
+}

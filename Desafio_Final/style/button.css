@@ -1,0 +1,36 @@
+.catalog_button {
+    display: block;
+  width: 200px;
+  height: 50px;
+  line-height: 40px;
+  margin: 20px;
+  background-color: #fc3836;
+  color: #fff;
+  border-radius: 20px;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 4px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 21px;
+}
+
+.product_button {
+background-color: #fc3836;
+color: #fff;
+border-radius: 16px;
+width: 100px;
+height: 30px;  
+}
+
+.contact_button {
+margin-left: 531px;
+padding-left: 250px;
+padding-right: 250px;
+padding-bottom: 8px;
+padding-top: 8px;
+color: #fff;
+background-color: #fc3836;
+border-radius: 20px;
+font-size: 18px
+}

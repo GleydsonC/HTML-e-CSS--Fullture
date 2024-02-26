@@ -1,0 +1,61 @@
+.index_header {
+    background-image: url(../images/spidermanheader.jpg);
+    background-size: 100%;
+    min-height: 115vh;
+    background-repeat: no-repeat;
+}
+
+.contact_header {
+    background-image: url(../images/contatoheader.jpg);
+    background-size: 100%;
+    min-height: 115vh;
+    background-repeat: no-repeat;
+}
+
+.catalog_header {
+    background-image: url(../images/captainmarvelheader.jpg);
+    background-size: 100%;
+    min-height: 115vh;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 250px;
+    padding-right: 75px;
+}
+
+.nav_bar {
+    display: flex;
+    padding-top: 30px;
+
+}
+
+li {
+    list-style:none;
+    padding-top: 18px;
+}
+
+.nav_link {
+    margin-right: 70px;
+    
+}
+li:hover a.nav_link{
+    border-bottom: 3px solid #fe7467;
+}
+
+.index_main_title {
+    width: 450px;
+    padding-top: 150px;
+}
+
+.catalog_main_title {
+    width: 800px;
+    padding-top: 400px;
+    padding-left: 300px;
+}
+
+.contact_main_title {
+    width: 700px;
+    padding-top: 340px;
+    padding-left: 210px;
+}
